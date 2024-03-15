@@ -1,0 +1,35 @@
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    opacity: 0.6;
+}
+body{
+    background-image: url(./mcu.jpg);
+    background-size: cover;
+}
+.main{
+    display: flex;
+    align-content: center;
+    border : 5px solid black;
+    justify-content:space-evenly;
+}
+h3{
+    text-align: center;
+    font-size: x-large;
+    color:goldenrod;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color:honeydew;
+}
+img:hover{
+    opacity: 1;
+    height: 400px;
+    width: 400px;
+
+}
+
+
+
+

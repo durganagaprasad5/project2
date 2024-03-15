@@ -1,0 +1,57 @@
+
+.h1{
+font: size 150px;
+}
+.main1{
+    text-align: justify;
+    font-size:larger ;
+    border: 1px solid black;
+}
+.main11{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.first{
+    background: url("https://w0.peakpx.com/wallpaper/303/28/HD-wallpaper-captain-america-chris-evans-mjolnir-steve-rogers-avengers-endgame.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+.h2{
+    background: crimson;
+}
+
+.second{
+    background: url("https://images5.alphacoders.com/352/352134.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+.main2{
+    text-align: justify;
+    font-size:larger ;
+    color: white;
+
+}
+.main22{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.div1{
+    text-emphasis-color: red;
+}
+.third{
+    background: url("https://c4.wallpaperflare.com/wallpaper/731/574/513/movie-thor-ragnarok-thor-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+}
+.main33{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.main3{
+    text-align: justify;
+    font-size:larger ;
+    border: 1px solid black;
+}
